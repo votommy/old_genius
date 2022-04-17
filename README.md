@@ -2,6 +2,7 @@
 
 # Old Genius
 Genius.com recently transitioned to a new look that completely changed the tried-and-true layout. This extension will automatically change the lyrics pages to the old layout.
+Disclaimer: You must be logged into your Genius account for the old layout to show up.
 
 ## How to Install:
 In order to publish this onto the Chrome Web Store, one must pay a registration fee to become a Web Store Developer. I'm not willing to pay (lol), so you'll have to install it according to these instructions:
