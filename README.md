@@ -1,2 +1,2 @@
-# old_genius
-A Chrome extension to fix an issue I have with a website's new look
+# Old Genius
+Genius.com recently transitioned to a new look that completely changed the tried-and-true layout. This extension will automatically change the lyrics pages to the old layout.
