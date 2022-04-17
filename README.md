@@ -17,6 +17,6 @@ In order to publish this onto the Chrome Web Store, one must pay a registration 
 
 ## My Tip Jars:
 Help fund my open source projects, if you want.<br>
-<img src="/images/README_Images/venmo.jpg" alt="Venmo QR Code" width="33%"/>
-<img src="/images/README_Images/paypal.jpg" alt="PayPal QR Code" width="33%"/>
-<img src="/images/README_Images/cashapp.jpg" alt="Cash App QR Code" width="33%"/>
+<img src="/images/README_Images/venmo.jpg" alt="Venmo QR Code" width="25%"/>
+<img src="/images/README_Images/paypal.jpg" alt="PayPal QR Code" width="25%"/>
+<img src="/images/README_Images/cashapp.jpg" alt="Cash App QR Code" width="25%"/>
