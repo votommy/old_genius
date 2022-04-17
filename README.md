@@ -1,7 +1,7 @@
 ![Old Genius logo](/images/OGx128.png "OG Logo")
 
 # Old Genius
-Genius.com recently transitioned to a new look that completely changed the tried-and-true layout. This extension will automatically change the lyrics pages to the old layout.<br>
+Genius.com recently transitioned to a new look that completely changed the tried-and-true layout, even removing certain useful features. This extension will automatically change the pages back to the old layout.<br>
 *Disclaimer: You must be logged into your Genius account for the old layout to show up.*
 
 ## How to Install:
