@@ -1,0 +1,1 @@
+window.location.href += "?bagon=1";
