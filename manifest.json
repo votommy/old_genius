@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name":"Old Genius",
-    "description": "Genius.com recently transitioned to a new look that completely changed the tried-and-true layout. This extension will automatically set the lyrics pages to the old layout.",
+    "description": "Genius.com recently transitioned to a new look that completely changed the tried-and-true layout. This extension will automatically change the lyrics pages to the old layout. Disclaimer: You must be logged into your Genius account for the old layout to show up.",
     "version": "1.0",
     "icons": {
         "16": "/images/OGx16.png",
