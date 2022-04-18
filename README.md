@@ -9,7 +9,7 @@ In order to publish this onto the Chrome Web Store, one must pay a registration 
 
 1. Download the ZIP file.<br>
 ![Step 1 screenshot](/images/README_Images/1.jpg "Step 1")
-2. Extract "old_genius-main" folder to somewhere safe. I recommend in the same folder as Chrome's installation<br>
+2. Extract the "old_genius-main" folder to somewhere safe. I recommend in the same folder as Chrome's installation<br>
   (C:\Program Files\Google\Chrome\).
 3. Go to chrome://extensions/ in Chrome, and turn on Developer mode<br>
 ![Step 3 screenshot](/images/README_Images/3.jpg "Step 3")
