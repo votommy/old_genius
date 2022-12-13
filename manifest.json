@@ -9,7 +9,7 @@
         "128": "/images/OGx128.png"
     },
     "content_scripts": [{
-        "matches": ["https://genius.com/*-lyrics"],
+        "matches": ["https://genius.com/*-lyrics", "https://genius.com/*-annotated"],
         "js": ["old_genius.js"]
     }]
 }
