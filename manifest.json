@@ -1,21 +1,15 @@
 {
     "manifest_version": 3,
-    "name": "Old Genius",
+    "name":"Old Genius",
     "description": "Genius.com recently transitioned to a new look that completely changed the tried-and-true layout. This extension will automatically change the lyrics pages to the old layout. Disclaimer: You must be logged into your Genius account for the old layout to show up.",
-    "version": "2.0",
+    "version": "1.0",
     "icons": {
         "16": "/images/OGx16.png",
         "48": "/images/OGx48.png",
         "128": "/images/OGx128.png"
     },
-    "permissions": [
-      "webRequest",
-      "webRequestBlocking",
-      "declarativeNetRequest",
-      "activeTab",
-      "scripting"
-    ],
-    "background": {
-      "service_worker": "old_genius.js"
-    }
+    "content_scripts": [{
+        "matches": ["https://genius.com/*-lyrics"],
+        "js": ["old_genius.js"]
+    }]
 }
