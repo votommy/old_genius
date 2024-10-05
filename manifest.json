@@ -8,6 +8,7 @@
         "48": "/images/OGx48.png",
         "128": "/images/OGx128.png"
     },
+    "host_permissions": ["https://genius.com/*"],
     "permissions": [
         "declarativeNetRequest",
         "activeTab",
