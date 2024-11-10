@@ -14,10 +14,4 @@ In order to publish this onto the Chrome Web Store, one must pay a registration 
 3. Go to chrome://extensions/ in Chrome, and turn on Developer mode<br>
 ![Step 3 screenshot](/images/README_Images/3.jpg "Step 3")
 4. Click "Load unpacked", and select the "old_genius-main" folder
-5. Done.
-
-## My Tip Jars:
-Help fund my open source projects, if you want.<br>
-<img src="/images/README_Images/venmo.jpg" alt="Venmo QR Code" width="25%"/>
-<img src="/images/README_Images/paypal.jpg" alt="PayPal QR Code" width="25%"/>
-<img src="/images/README_Images/cashapp.jpg" alt="Cash App QR Code" width="25%"/>
+5. Done
